@@ -13,7 +13,7 @@ O repositório contém os seguintes arquivos principais:
 Antes de executar o código, as seguintes bibliotecas Python precisam estar instaladas:
 
 1. **Python 3.7** ou superior.
-2. **YOLO**: Instale a biblioteca YOLO utilizando o comando:
+2. **ultralytics**: Instale a biblioteca ULTRALYTICS utilizando o comando:
    ```bash
    pip install ultralytics===8.3.27
    ```
